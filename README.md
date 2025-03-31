@@ -1,4 +1,4 @@
-# monad_testnet_faucet
+# Monad Testnet Faucet
 
 
 This smart contract was developed by my partner and me. It represents a standard implementation of a faucet on the Monad testnet.
